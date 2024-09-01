@@ -1,9 +1,0 @@
-.admincomponents{
-    text-decoration: none !important;
-
-}
-.admincomponents:hover{
-    background: rgb(32, 32, 32);
-     color: white;
- transition:2s;
-}
