@@ -25,7 +25,7 @@ const handleLogout=()=>{
     <div className='container-fluid navbars mb-3'>
     <div className="row  py-3  ">
         <div className="col-5">
-        <h3 className=''> <Link to='/' className='text-decoration-none text-info'> E-Commerce</Link> </h3>
+        <h3 className=''> <Link to='/' className='text-decoration-none text-info'>MyStore</Link> </h3>
      </div>   
       <div className='col-7 '>
       <div className='d-flex justify-content-end align-item-end'>
